@@ -28,7 +28,7 @@ You explain to him through hurried breaths that you are so incredibly excited to
 
 He turns gently away from you and his eyes alight upon a dearly rendered statuette of a dream dragon that sits above the fireplace. He continues, "But no, I am not all so great as the rumor mill suggests. I am a mere miniscule kobold, just as you. If you were to devote yourself to study as much as I, I'm sure you would achieve just as much, if not more. Come, let's begin your training."
 
-## A Quiet Pain and a Painful Quiet
+## Pondering, Pontificating, and Potatoes
 
 It has been a number of months since you've started your training at the Memorial Library. It's such a fascinating job. Sometimes lectures are held here. Sometimes art pieces are put up in the larger halls. But more so than anything else, your days are filled with looking after the innumerable documents that get sent here. More come in every day. Most of the books that come in are extremely old. Where other libraries in the valley might stock the latest discoveries in engineering and arcana, Ackbald seems to spend his time and resources preserving old documents. Everything is taken in and everything is preserved. From forgotten scientific theses to blueprints of lost structures, even tax documents and civil records. Personally, you've come to think that he's probably uniquely qualified since he's one of the few people alive that can remember that these books and papers even exist in the first place.
 
@@ -49,3 +49,39 @@ You nod your head vigorously, but ironically. "Some nice old man who's forgotten
 The red scaled kobold in front of you gives a deep chortling laugh. She wipes away a fleck of spittle and plays along with "Nah! He never forgets anything! I bet he remembers the inside of his egg!"
 
 A joke it may be, or an exaggeration, but you almost wouldn't put it past him to actually remember from before he hatched. A chill runs down your spine as you imagine it.
+
+"Oh yeah! I was calling out to you-," Blitzgam begins.
+
+"Sorry," you interject.
+
+"Quit it! I was calling out to you cause Ackbald wanted to chat with you over lunch."
+
+You wrinkle your brow ridge. "What? Why?"
+
+Blitzgam shrugs. "I dunno."
+
+Little kobold new employee panic enters your voice. "Did I do something wrong?!"
+
+"I dunno!"
+
+You're still the newest trainee. Why would the boss waste his time talking with you? Those usually quiet anxieties whisper wild worries in your head. Still, Ackbald has never been quick to anger, just quick to correct. You shake your head to get the anxieties out. "Okay. Sure."
+
+"Cool."
+
+"When's lunch?"
+
+With as straight an expression as anyone has ever given you, she says "Was supposed to be 31 minutes ago."
+
+"Whuh?" you respond.
+
+Blitzgam shrugs. You dash past her. You hear cackling, nigh howling, coming from behind you as you exit the room. You add a mental tally mark to your mental list. You reconsider. You add three mental tally marks to your mental list.
+
+Luckily, the hallways of Cymrelaak Dragon Memorial are never overly crowded. You sprint your way from the larger work room to the break room, hoping he's still there. Of course, you slow down around the really irreplaceable stuff. The workroom you came from is way in the back, dug out of the cavern wall. You pass by an assistant librarian whose name you don't know yet and a courier who demands that *you* have to be the one to sign for this package or they'll leave, they swear to god. After you give a brief and half-hearted rebuttal, they turn to leave with the package, you give up and agree, sign for the package, and carry it with you as you rush to your unexpected meeting.
+
+After rounding a couple more corners, and passing through the door to the break room, you see Ackbald, sitting in his wheelchair by the fireplace and watching the doorway. He catches sight of you and waves you over. "Hungry?" he asks as you approach.
+
+"I.. uh..." you stumble out. You hadn't considered whether you actually wanted to eat or not. With perfect timing, your stomach grumbles like a clichéd joke in a satire. "Sure."
+
+A broad smile spreads across his face as Ackbald gives a deep and gentile laugh. "Young one, you appear to be . You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
+
+"I mean, yeah, but..."

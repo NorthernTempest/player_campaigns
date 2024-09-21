@@ -6,9 +6,9 @@ authors:
 # Ackbald the Enkindler
 **A Tale Written for Quiet Hatchlings**
 
-This story serves as the backstory for Ackbald the Enkindler.
+This story, told from the second perspective, serves as the backstory for Ackbald the Enkindler.
 
-TL;DR: Ackbald is a truly ancient kobold as well as a teacher and master magic artisan of the Cymrelaak clan, after they adopted him. He is so ancient as to have been friends with the dragon Cymrelaak in his prime, and was a key actor in re-establishing the clan after their escape from slavery.
+TL;DR: Ackbald is a truly ancient kobold as well as an archivist and master magic artisan of the Cymrelaak clan, after they adopted him. He is so ancient as to have been friends with the dragon Cymrelaak in his prime, and was a key actor in re-establishing the clan after their escape from slavery.
 
 ## Books Speak Volumes but it's Heroes that Hold Your Heart
 
@@ -86,10 +86,20 @@ After rounding a couple more corners, and passing through the door to the break 
 
 "Here. Eat," the ancient kobold directs, "I'm sure you're quite hungry. I know you already missed breakfast."
 
-A broad smile spreads across his face as Ackbald gives a deep and gentile laugh. "Young one, you appear to be out of breath. You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
+A broad smile spreads across his face as Ackbald gives a deep and gentle laugh. "Young one, you appear to be out of breath. You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
 
 "I mean, yeah, but..."
 
-## Oaths
+"I am but a simple arcanist and archivist."
 
+"Still, Mr. the Enkindler, it's hard to call you just some old man with a 'simple' job or two."
 
+The silence lasts longer than you expected as he processes this. He looks pensive and appears to consider what you said carefully.
+
+"Perhaps you're right. Far be it from me to tell you how to think. Just because I don't see myself as anyone special doesn't mean that all others must see me the same way. So, here's what we're going to do. You're going to ask me questions about myself and I'll answer them until you're satisfied, and then, once you have my story from start to finish, you'll present your argument as to whether or not I am a simple old man"
+
+You break into a dead sprint once more. This time, you seek to retrieve your notebook, ink, and quill before he changes his mind.
+
+## Oaths and Burdens
+
+"Why am I relegated to a chair, you ask? It's quite simple. I am weak even beyond my many years. I have no strength in my legs, and am always encumbered by the lightest load. I am incapable of telling lies, perhaps some small quirk of my mind's workings, and I cannot properly comprehend some of the more advanced"

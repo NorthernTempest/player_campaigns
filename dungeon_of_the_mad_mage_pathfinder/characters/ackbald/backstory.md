@@ -104,4 +104,18 @@ You break into a dead sprint once more. This time, you seek to retrieve your not
 
 ## Oaths and Burdens
 
-"Why am I relegated to a chair, you ask? It's quite simple. I am weak even beyond my many years. I have no strength in my legs, and am always encumbered by the lightest load. I am incapable of telling lies, perhaps some small quirk of my mind's workings, and I cannot properly comprehend some of the more advanced"
+When you get back, arms filled with , the master archivist remains in exactly the same spot that you left him. You start your interview, "Okay, I'm ready. Let's start with a question I've always had. Why do you need to use a wheelchair?"
+
+"My wheelchair, you ask? It's actually quite simple. I am weak even well beyond my many years. I have never had much strength in my legs, and am always encumbered by the lightest load."
+
+"I can't drink or eat anything that isn't bare sustenance, and I do not even need to eat or drink at all."
+
+"I'm allergic to gunpowder, most types of metal, and electronics."
+
+"I am incapable of telling lies or half-truths, perhaps due to some small quirk of my mind's workings."
+
+"I am physically incapable of desecrating the dead. If I were to try, the ghosts of my long past friends would physically pull me away and drain me of my strength"
+
+"I have sworn a magical oath of loyalty to Lady Jella, and am physically unable to take action that would betray her expectations of me."
+
+"As part of my duty to Lady Jella, I expend many writing materials every day in order to inscribe my knowledge and learnings and magically send them back to the library."

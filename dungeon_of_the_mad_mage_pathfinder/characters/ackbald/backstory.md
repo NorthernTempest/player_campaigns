@@ -8,6 +8,8 @@ authors:
 
 This story serves as the backstory for Ackbald the Enkindler.
 
+TL;DR: Ackbald is a truly ancient kobold as well as a teacher and master magic artisan of the Cymrelaak clan, after they adopted him. He is so ancient as to have been friends with the dragon Cymrelaak in his prime, and was a key actor in re-establishing the clan after their escape from slavery.
+
 ## Books Speak Volumes but it's Heroes that Hold Your Heart
 
 You stride quickly down Bookstack Way, tracing your tail childishly through the gravel and straining your eyes to catch a glimpse of your destination. You struggle to avoid your excitement leaking out like trying to keep a lid on a vial of impact foam after it's been shaken too hard. As a well maintained limestone brick wall barely comes into the range of your darkvision, you unconsciously break into a light jog. The sign above the door is remarkably well made and well maintained. The name of the building is carved clearly in Draconic on the stained wooden sign: 'Cymrelaak Dragon Memorial Library'. The doors that stand below the sign are as grand as any other building in the valley. You push gently on the doors and they swing smoothly on well oiled hinges. A bell chimes as you step in, though you don't know where from.
@@ -85,3 +87,7 @@ After rounding a couple more corners, and passing through the door to the break 
 A broad smile spreads across his face as Ackbald gives a deep and gentile laugh. "Young one, you appear to be . You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
 
 "I mean, yeah, but..."
+
+## Oaths
+
+

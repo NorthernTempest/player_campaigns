@@ -84,7 +84,9 @@ After rounding a couple more corners, and passing through the door to the break 
 
 "I.. uh..." you stumble out. You hadn't considered whether you actually wanted to eat or not. With perfect timing, your stomach grumbles like a clichéd joke in a satire. "Sure."
 
-A broad smile spreads across his face as Ackbald gives a deep and gentile laugh. "Young one, you appear to be . You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
+"Here. Eat," the ancient kobold directs, "I'm sure you're quite hungry. I know you already missed breakfast."
+
+A broad smile spreads across his face as Ackbald gives a deep and gentile laugh. "Young one, you appear to be out of breath. You know, this is the fourth time I've talked to you in person. Each time, you've seemed particularly anxious. Am I really that frightening? I swear that I'm no danger to you. Even if you make a faux pas of some sort, the worst someone in my corporeal state would be capable of is granting you a stern lecture. And if you think that I'm somehow more important than you, you should know that I think the very opposite. I lecture here so that you and all the new generations of the clan can take over when I'm gone. It might seem a bit cruel, but it's an old person's job to get out of the way when young people are needed and to provide whatever help they can when asked."
 
 "I mean, yeah, but..."
 

@@ -6,7 +6,7 @@ Oath of Abstention: When Roktor absorbed the powers of a rock, he became unable 
 
 Oath of Candor: Roktor doesn't understand how to form a lie (maybe it's some form of mental disability.)
 
-Oath of the Cryptkeeper: All the goblins that ever raised him died and their bodies were left to rot in the ruins they inhabited. He had to kill off some monsters that were attracted by (or created from) the goblins' corpses. He swore that he would properly dispose of any bodies he came across in the future.
+Oath of the Cryptkeeper: The community of goblins that raised him died and their bodies were left to rot in the ruins they inhabited. He had to kill off some monsters that were attracted by (or created from) the goblins' corpses. He swore that he would properly dispose of any bodies he came across in the future.
 
 Oath of Humility: Nobody's willing to follow him cause he's ugly and hard to understand.
 

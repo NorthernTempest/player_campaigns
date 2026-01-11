@@ -76,4 +76,42 @@ Too late. Harker limply dropped his gun to the ground. "NOOOOO!!!" cried Poppy a
 
 Harker lifted his hands up. They moved behind his head. A head that... *should* be hanging low in defeat. Through the firelight Poppy could still see the defiant tilt in Harker's chin. He wasn't defeated yet! Boom! The building to Poppy's right exploded. The corrugated sheet metal walls bowed outward and then burst like a balloon. The fireball engulfed the woman and flew out fourty feet from the doorway. She screamed in pain. A death wail, probably. Meanwhile, the remnants of the warehouse became shrapnel and flew out in every direction. The stocky man who was fighting Poppy's father just moments ago let loose another spell, only to have one large chunk of the warehouse fly through where his heart should be. His body crumpled to the floor... as did Harker. A chunk of concrete flew into Poppy's head, and she knew no more.
 
+## Reawakened and Requests
+
+Poppy regained consciousness with a start and sat bolt upright with a scream. The hospital staff around her jumped with fright. She was in the emergency ward. Poppy's mind raced for a few seconds then called out "Hello?"
+
+A young man raced to her side, a nurse, she supposed. He looked her up and down "Hello! You seem to be doing well! Glad to see it, but if you could lay back down-"
+
+"No, that's not important! Where is my father? Where is Harker Brent?"
+
+The nurse looked at the android girl in the eyes and frowned. He seemed to consider whether to address her question and then responded "There were a few people caught up in that inferno you were found next to. We're still trying to identify one other survivor, but there are at least a dozen dead. If your father was caught up in whatever happened last night, chances are he didn't come out."
+
+"Where is the survivor?" Poppy asked, no, gently demanded.
+
+"They're in the intensive burn unit. You can't go see them cause it's a clean room. And even if you did, they would be unrecognizable."
+
+"How tall are they?"
+
+The nurse paused and stared deeper into the android's eyes, trying to search within them for whether it was okay for him to say. "Five foot four inches."
+
+Far too short to have been Harker. Perhaps the girl who had shot at Poppy from the warehouse.
+
+"That's not him."
+
+There was a long pause. "I'm sorry."
+
+"It's possible he got away."
+
+"That *may* be true. I recommend you wait to see the police first. They may ask you to identify the bodies."
+
+The police came. They came with pictures. One of those pictures was of the dead body of her father. She cried and didn't stop for half an hour.
+
 ## Recovery and Review
+
+Poppy was dismissed from the hospital the next day, her injured legs, minor burns, and significant concussion now healed. She took the opportunity to head home, where she learned that Miss Iskeer had passed away that same night from a heart attack. What's more, Samah had disappeared and the other Tompkins women were grieving. Mrs. Lingdon came in a few days later to hand in her notice of resignation. Poppy properly paid her the generous dismissal package her father had promised his assistant. Then Mrs. Tompkins said she was moving away. They all consoled her, but then... they left her alone.
+
+Poppy tried to learn more about the investigation into the events of that night. She learned from the inspectors she was interviewed by that a significant amount of drugs and alchemical goods had been either destroyed in the fire or seized by the authorities. There were secret rooms in the basement with large quantities of credits stowed in locked safes. The whole building had been burned through. Whatever illegal operation was going on here was finished.
+
+Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coersion, and complicity with Barker's murder. All of it eventually stuck, and she recieved 35 years in prison followed by life on parole.
+
+The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate.

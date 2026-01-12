@@ -104,7 +104,7 @@ There was a long pause. "I'm sorry."
 
 "That *may* be true. I recommend you wait to see the police first. They may ask you to identify the bodies."
 
-The police came. They came with pictures. One of those pictures was of the dead body of her father. She cried and didn't stop for half an hour.
+The police came. They came with pictures. One of those pictures was of the hefty man. He seemed older than Poppy had imagined him. Another of the pictures was of the dead body of her father. She cried and didn't stop for half an hour.
 
 ## Recovery and Review
 
@@ -112,6 +112,12 @@ Poppy was dismissed from the hospital the next day, her injured legs, minor burn
 
 Poppy tried to learn more about the investigation into the events of that night. She learned from the inspectors she was interviewed by that a significant amount of drugs and alchemical goods had been either destroyed in the fire or seized by the authorities. There were secret rooms in the basement with large quantities of credits stowed in locked safes. The whole building had been burned through. Whatever illegal operation was going on here was finished.
 
-Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coersion, and complicity with Barker's murder. All of it eventually stuck, and she recieved 35 years in prison followed by life on parole.
+Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coersion, and complicity with Barker's murder. All of it eventually stuck, and she recieved 35 years in prison followed by life on parole. That was almost as bad as the scars across her body that she received in the warehouse explosion.
 
-The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate.
+The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate. That puzzle, even Poppy had no clue how to solve.
+
+## Cases and Crypts
+
+The next week of her life was mostly filled with mourning her father and mentor. With the spare time she had now been cursed with, she tried her best to learn more about her father. The key, she thought, was in his case notes. She spent many hours slowly and carefully navigating the complex security precautions implemented by her father. It took her five days. When she was finally able to break into the file system and read the first case note, she found it encoded. Not encrypted, not truly, but encoded in such dense reference numbers and shorthand that decoding the contents would be like trying to untangle a crumpled cobweb. She realized it would take years of research to unlock these secrets but she resolved herself to see it through.
+
+It wasn't until two weeks had passed that she even dared to look at the envelope she had been given the night of her father's death. In her heart, she hoped that this was all a part of her father's plan and he would show up one day with a smile and return to Poppy's life.

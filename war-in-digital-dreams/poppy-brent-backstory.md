@@ -26,7 +26,7 @@ Poppy, of course, wouldn't let him go into the den of the beast alone. She kept 
 
 ## Fears and Fallbacks
 
-Ultimately, it was Harker himself that would unravel the issue before Poppy. One Starday, in the middle of dinner, Harker passed Poppy a hefty manilla envelope. "Don't open that. Not right now. I'm going somewhere tonight and no, you can't follow. Everything's accounted for and my plan is already in motion. I should tell you that I know that you've been asking about me. I know that... you've been worried for me. I'm sorry for making you worry. As your father, it's *my* job to worry over *you*, not the other way around. I appreciate your concern, I do, but I can assure you now that everything is going to be alright by tomorrow morning. However... you know me. I need to have backup plans in case things go awry. If, in 7 days, you don't hear from me, open the envelope. You'd be well looked after."
+Ultimately, it was Harker himself that would unravel the issue before Poppy. One Sixthday, in the middle of dinner, Harker passed Poppy a hefty manilla envelope. "Don't open that. Not right now. I'm going somewhere tonight and no, you can't follow. Everything's accounted for and my plan is already in motion. I should tell you that I know that you've been asking about me. I know that... you've been worried for me. I'm sorry for making you worry. As your father, it's *my* job to worry over *you*, not the other way around. I appreciate your concern, I do, but I can assure you now that everything is going to be alright by tomorrow morning. However... you know me. I need to have backup plans in case things go awry. If, in 7 days, you don't hear from me, open the envelope. You'd be well looked after."
 
 Poppy was already in tears. She understood exactly what was happening. She knew exactly what he was saying. "Poppy. You don't need to worry. I have every contingency accounted for. You have no idea how long I've been working towards this. You have no idea how important what I'm doing tonight is.... Damn it!"
 
@@ -110,9 +110,9 @@ The police came. They came with pictures. One of those pictures was of the hefty
 
 Poppy was dismissed from the hospital the next day, her injured legs, minor burns, and significant concussion now healed. She took the opportunity to head home, where she learned that Miss Iskeer had passed away that same night from a heart attack. What's more, Samah had disappeared and the other Tompkins women were grieving. Mrs. Lingdon came in a few days later to hand in her notice of resignation. Poppy properly paid her the generous dismissal package her father had promised his assistant. Then Mrs. Tompkins said she was moving away. They all consoled her, but then... they left her alone.
 
-Poppy tried to learn more about the investigation into the events of that night. She learned from the inspectors she was interviewed by that a significant amount of drugs and alchemical goods had been either destroyed in the fire or seized by the authorities. There were secret rooms in the basement with large quantities of credits stowed in locked safes. The whole building had been burned through. Whatever illegal operation was going on here was finished.
+Poppy tried to learn more about the investigation into the events of that night. She learned from the inspectors she was interviewed by that a significant amount of drugs and alchemical goods had been either destroyed in the fire or seized by the authorities. There were secret rooms in the basement with large quantities of credits stowed in locked safes. The whole building had been burned through. Whatever illegal operation was going on there was finished.
 
-Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coersion, and complicity with Barker's murder. All of it eventually stuck, and she recieved 35 years in prison followed by life on parole. That was almost as bad as the scars across her body that she received in the warehouse explosion.
+Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coercion, and complicity with Barker's murder. All of it eventually stuck, and she received 35 years in prison followed by life on parole. That was almost as bad as the scars across her body that she received in the warehouse explosion.
 
 The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate. That puzzle, even Poppy had no clue how to solve.
 
@@ -130,7 +130,7 @@ Inside the manilla envelope were three documents. First, a sealed, signed, and w
 >
 > Enclosed is a letter to a Reverend Aulk Trellum, who is an old friend I've never had the opportunity to introduce you to. Your first step is to ask that Aulk attempt to resurrect me. Included in the envelope to him is enough credits and a piece of my body big enough to perform a resurrection. If I am dead and my soul is free to return, I will be sure to come back when called. You are my final fail-safe to ensure this is done.
 >
-> If, however, either my soul is bound and unable to return or I am alive but for unexpected reasons unable to return for the foreseeable future, I have enclosed a copy of my final will and testament. The notary I used is trustworthy. I have not known him long, but he has my full respect, and I have his. In case the resurrection fails, have him disclose the will. I'll spoil it a little now. You will get nearly everything, except some small debts I owe to a few friends.
+> If, however, either my soul is bound and unable to return or I am alive but for unexpected reasons unable to return for the foreseeable future, I have enclosed a copy of my final will and testament. The notary I used is trustworthy. I have not known her long, but she has my full respect, and I have hers. In case the resurrection fails, have her disclose the will. I'll spoil it a little now. You will get nearly everything, except some small debts I owe to a few friends.
 >
 > I am sorry Poppy, either way, for making you face such hardships. I never intended to make trouble for you, my beloved daughter.
 >
@@ -168,8 +168,44 @@ The Reverend stood and walked to his bedroom door with the urn and the vial. He 
 
 She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty. She couldn't rest that night. She was early again serving breakfast, but served lunch on time at noon. Around fifteen o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, then shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort and left.
 
-## Debts and Discoveries
+## Meetings and Morbidity
 
 The next day, she searched for and called up the notary that had witnessed the will and testament, one Mrs. Bierra Parcier, and made an appointment to have the testament's reading witnessed the a few days later. In the meantime, Poppy found herself unable to smile or laugh or even cry. This should have worried her but she couldn't put together the willpower to find that emotion either. She barely slept, more so closing her eyes and wishing for time to pass.
 
-She arrived at the office of the notary an hour early, came in, checked in with the assistant at the desk, and sat down. Two minutes later, Poppy was admitted to Mrs. Parcier's office.
+She arrived at the office of the notary an hour and a half early with the will in hand, came in, checked in with the assistant at the desk, and sat down. Two minutes later, Poppy was admitted to Mrs. Parcier's office. The human woman was young. Perhaps nineteen years old. She wore a fine suit and her office was sparsely but finely and neatly decorated. "Come in and sit down, please," requested the notary, "We will begin once the others have arrived."
+
+Poppy was mildly confused. "The others?"
+
+"The will is to be read in front of yourself, Mrs. Poppy Brent, Mr. Aulk Trellum, Mr. Mickey Karndt, Mrs. Rosella Mitra, Mr. Nikk-Nakk, and myself, Mrs. Bierra Parcier. Three copies of the will and testament were made. One for Mr. Harker Brent, which I assume he entrusted with you prior to his death, one he left in the care of my office, and one he left in the care of Nikk-Nakk, a young starfinder. I would prefer not to discuss business until the others arrive. Would you like some tea?"
+
+Poppy had to ask herself that. Her lips were parched. She couldn't remember the last time she drank anything. "Could you please bring me some water?" she asked.
+
+"Of course."
+
+The notary stood and left her desk. In one corner of the room, she had a stand with a tray of snacks and several types of drinks. She took a cup from inside a drawer and filled it with water from a water cooler next to that stand. She sighed. "I knew your father and worked with him on occasion. It is deeply regrettable that he has passed away."
+
+Bierra brought the cup of water to Poppy's side. "You seem... harrowed... Mrs. Brent. Am I right in believing that you were there the night of the incident?"
+
+Poppy's dead eyes briefly sprung to life, piercing into Mrs. Parcier's face like a memory piercing into the past. Poppy was suddenly there again that night. She was witnessing Harker's body collapse to the floor... "Sorry! I... I didn't mean to make you relive that, Mrs. Brent. I just meant to ask whether... I don't know... was there any closure to his passing? Did they catch his killer?"
+
+The image of that mysterious, bulky mage who worked for the Amos family immediately came to Poppy's mind. "They found his killer's dead body," the android responded, "but, whatever was happening there, at least a few people managed to get away."
+
+"Oh," the Notary let out, disappointment in her tone, "sorry."
+
+The two sat in silence for several minutes. The waiting was awkward and silent. The silence was awkward and draining. Eventually, the four other parties to the reading slowly trickled in, ending with Nikk-Nakk, who arrived twenty minutes early. Bierra placed a microphone on her desk and started recording.
+
+"Since all parties are present we shall proceed with reading the will and testament of Mr. Harker Brent ahead of schedule. Please state your names for the record."
+
+The 6 people in the room each stated their name, one after another. Poppy wasn't paying attention. She wanted to know what Harker's last will was and what his final words to her were meant to be.
+
+"Let the record show that Harker Brent is reported to have died around twenty minutes after midnight pact standard time on..." her voice trailed off as she searched for the date.
+
+"The sixteenth of Neth," Poppy filled in.
+
+"Right. The sixteenth of Neth two-eighty-one, and we have gathered here eighteen days later on the fourth of Kuthona two-eighty-one. We will now proceed with the reading. Poppy, Nikk-Nakk, please open your packages, and I will open mine."
+
+The three of them quickly broke open their individual manilla envelopes and pulled out their contents.
+
+## Debts and Discoveries
+
+

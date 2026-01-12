@@ -116,8 +116,60 @@ Poppy identified the woman in the burn unit as her attacker after she had underg
 
 The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate. That puzzle, even Poppy had no clue how to solve.
 
-## Cases and Crypts
+## Missions and Missives
 
-The next week of her life was mostly filled with mourning her father and mentor. With the spare time she had now been cursed with, she tried her best to learn more about her father. The key, she thought, was in his case notes. She spent many hours slowly and carefully navigating the complex security precautions implemented by her father. It took her five days. When she was finally able to break into the file system and read the first case note, she found it encoded. Not encrypted, not truly, but encoded in such dense reference numbers and shorthand that decoding the contents would be like trying to untangle a crumpled cobweb. She realized it would take years of research to unlock these secrets but she resolved herself to see it through.
+The next week of her life was mostly filled with mourning her father and mentor. Over one afternoon, she busied herself with fixing her window and removing the screws that had held it shut, but that was over quickly and without trouble. With the spare time she had now been cursed with, she tried her best to learn more about her father. The key, she thought, was in his case notes. She spent many hours slowly and carefully navigating the complex security precautions implemented by her father. It took her five days. When she was finally able to break into the file system and read the first case note, she found it encoded. Not encrypted, not truly, but encoded in such dense reference numbers and shorthand that decoding the contents would be like trying to untangle a crumpled cobweb. She realized it would take years of research to unlock these secrets but she resolved herself to see it through.
 
-It wasn't until two weeks had passed that she even dared to look at the envelope she had been given the night of her father's death. In her heart, she hoped that this was all a part of her father's plan and he would show up one day with a smile and return to Poppy's life.
+It wasn't until two weeks had passed that she even dared to look at the envelope she had been given the night of her father's death. In her heart, she hoped that this was all a part of her father's plan and he would show up one day with a smile and return to Poppy's life. Of course that didn't happen. He had promised to see her again the next morning, and to open the envelope if *one* week passed without seeing him. She already knew he was gone anyway. She had seen the body and seen the ashes come out of the crematorium. No body double could be so perfect, including even the scars, and no pretending could have saved him from the furnace. Regardless, it was now time for his final fallback plan to reveal itself. She cut open the envelope.
+
+Inside the manilla envelope were three documents. First, a sealed, signed, and witnessed last will and testament. Second, a sealed letter to a Reverend Aulk Trellum. Poppy noted the address on the letter to the Reverend. Not very far away. The final document was an unsealed letter addressed to Poppy.
+
+> Dear Poppy,
+>
+> If you are reading this at least one week after I have disappeared, I am either dead or unable to meet you again for the foreseeable future, as I'm sure you have guessed. That does not, however, mean that all hope is lost. Below, I have disclosed my final plan and reasoning for it in case all things go awry.
+>
+> Enclosed is a letter to a Reverend Aulk Trellum, who is an old friend I've never had the opportunity to introduce you to. Your first step is to ask that Aulk attempt to resurrect me. Included in the envelope to him is enough credits and a piece of my body big enough to perform a resurrection. If I am dead and my soul is free to return, I will be sure to come back when called. You are my final fail-safe to ensure this is done.
+>
+> If, however, either my soul is bound and unable to return or I am alive but for unexpected reasons unable to return for the foreseeable future, I have enclosed a copy of my final will and testament. The notary I used is trustworthy. I have not known him long, but he has my full respect, and I have his. In case the resurrection fails, have him disclose the will. I'll spoil it a little now. You will get nearly everything, except some small debts I owe to a few friends.
+>
+> I am sorry Poppy, either way, for making you face such hardships. I never intended to make trouble for you, my beloved daughter.
+>
+> Harker Brent
+
+## Prayers and Payments
+
+Poppy had sat up straight at the possibility of having her father resurrected. She hurriedly finished the rest of the letter to be thorough, but jumped to action immediately after reading her father's apology at the bottom of the page. Poppy snatched up the letter to the Reverend, quickly but carefully collected the urn of ashes she had resting beside her father's computer in case those would prove of use, and began running down the apartment stairs. Minutes later, she was gasping out of breath at the front door of the address listed on the envelope for the Reverend. It was a simple commercial unit in an old mostly abandoned plaza. The only sign that it was a church was the symbol of Pharasma hanging next to the door and a small nameplate in even smaller font that read "Church of Beloved Souls, Reverend Aulk Trellum"
+
+Poppy burst in the door, finding the surprisingly large space mostly empty. Some pews sat facing a podium and one old fashioned upright piano. One door led to another space and on the door was a sign saying "Reverend's Quarters"
+
+Poppy ran to the door to his quarters and knocked as hard as she could. She heard movement from within and a surprisingly young sounding voice called out "One moment please!"
+
+After a half minute passed, the door quietly opened from within and a handsome elf, smiling, stood there. "What can I do for you?"
+
+"Reverend Aulk?" Poppy confirmed.
+
+"I am he," the Reverend responded, "are you seeking guid-"
+
+Shoving the letter into his hand, Poppy interrupted with "Harker Brent. This letter is from Harker Brent. I was told you know him."
+
+The elf, a little taken aback by the urgency the android was displaying, paused for a half of a moment then gently took the letter from Poppy's hands. "Come in."
+
+The elf stood aside and invited Poppy into his quarters. A small dining table for two sat next to a kitchenette. A computer desk and a lounge chair were cramped together in the far corner of the room. There were no windows, and everything in the apartment could be seen from the front door except the bathroom and the bedroom. It was even smaller than the apartment that Poppy and Harker shared. Aulk pulled out the chair for Poppy to sit down. She did. Aulk fetched a knife from the kitchen and stood over the table while he carefully sliced open the letter. The cred chip fell out onto the worn table surface, then a black vial, then a letter. Poppy stared hard at the elven cleric, then glanced at the page. Only one line was written there: "Plan Z, Aulk. Thanks!"
+
+Aulk sighed, picked up the chip and walked to his computer. He checked the creds on the chip and said "It's all here. I'll be back. I need to collect the material components. In the meantime, there's tea in the cupboard and a kettle. I'm going to lock up while I'm gone, so please don't leave."
+
+20 minutes passed while Poppy waited, tea in hand then in stomach. Poppy heard the door to the street unlock, open, then close. She stood up, but before she could say a word, Aulk was at the door to his quarters and was already indicating she should sit down again. "This spell will take a day to cast," He explained, "If you could, would you please bring me food and drink when I need it?"
+
+"Yes," she nodded, "anything else?"
+
+"No thank you."
+
+The Reverend stood and walked to his bedroom door with the urn and the vial. He pulled a pouch of gemstones out of his pocket. "See you at eighteen o'clock then," he said dryly, "Oh! And I *am* sorry for your loss. I knew Brent for many years but haven't met with him in some time. If you ever have need for anything, come to me."
+
+She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty. She couldn't rest that night. She was early again serving breakfast, but served lunch on time at noon. Around fifteen o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, then shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort and left.
+
+## Debts and Discoveries
+
+The next day, she searched for and called up the notary that had witnessed the will and testament, one Mrs. Bierra Parcier, and made an appointment to have the testament's reading witnessed the a few days later. In the meantime, Poppy found herself unable to smile or laugh or even cry. This should have worried her but she couldn't put together the willpower to find that emotion either. She barely slept, more so closing her eyes and wishing for time to pass.
+
+She arrived at the office of the notary an hour early, came in, checked in with the assistant at the desk, and sat down. Two minutes later, Poppy was admitted to Mrs. Parcier's office.

@@ -4,15 +4,15 @@ Poppy is the name of a brilliant red flower that once grew on a number of worlds
 
 ## Awakening and Apprenticeship
 
-When Poppy first gained consciousness, she was laying in a shoddy bed in a drab apartment at the civilized edge of the Spike on Absalom Station and Harker was sleeping restlessly in a chair next to her. Shifting in the bed, Poppy accidentally disturbed Harker's slumber. Harker woke with a start and, with an expression half surprised and more than half relieved, embraced the android in a warm hug. What ensued was a delicate conversation where Harker carefully skirted the topic of Poppy's origins and reinforced the fact that he was here for her now, no matter what.
+When Poppy first gained consciousness, she was laying in a shoddy bed in a drab apartment in Downlow, inside the Spike on Absalom Station and Harker was sleeping restlessly in a chair next to her. Shifting in the bed, Poppy accidentally disturbed Harker's slumber. Harker woke with a start and, with an expression half surprised and more than half relieved, embraced the android in a warm hug. What ensued was a delicate conversation where Harker carefully skirted the topic of Poppy's origins and reinforced the fact that he was here for her now, no matter what.
 
 Harker led a busy life. He worked as a private detective, landlord, handyman, and a part-time local hero whenever he could afford to be. Adding onto this list of responsibilities, Harker took it upon himself to care for, educate, and provide guidance to Poppy as she grew accustomed to life on the station from inside that cramped one-bedroom apartment with an attached office (Harker usually slept on the couch, unless he came home *particularly* sore after work). Harker was knowledgeable about every scholarly pursuit from literature to the latest discoveries of science, medicine, and magic. What's more, he was particularly apt at teaching, effortlessly guiding Poppy to find interest and skill in every academic topic he could think of.
 
 Of course, academics wasn't the only topic Poppy was interested in. She'd often demand to join her father on his work as an investigator. He would have none of it. He would only tell her "I don't want you to get involved in *my* problems. The skeletons in my closet and the scum that I fight against are for me to deal with. You were born pure and innocent into this world, and I have no intention of letting that change any time soon."
 
-Instead, Harker used diversionary tactics. He had Poppy learn how to cook and bake from old Mrs. Tompkins in the next apartment over, making friends with her two teenage daughters, Samah and Iniga, in the meantime. Harker introduced Poppy to his secretary's disabled husband, Mr. Lingdon, who'd teach her about hardware and software from his computer repair shop. Harker had his mentor, an elderly but spry Miss Iskeer, teach her the basics of self-defense, self-discipline, and practical self-sufficiency. And, of course, he took her out to the markets to expose her to the vast variety of people and cultures on Absalom Station.
+Instead, Harker used diversionary tactics. He had Poppy learn how to cook and bake from old Mrs. Tompkins in the next apartment over, making friends with her two teenage daughters, Samah and Iniga, in the meantime. Harker introduced Poppy to his secretary's disabled husband, Mr. Lingdon, who'd teach her about hardware and software from his computer repair shop. Harker had his mentor, an elderly but spry Miss Iskeer, teach her the basics of self-defense, self-discipline, and practical self-sufficiency. And, of course, he took her out to the Free Markets to expose her to the vast variety of people and cultures on Absalom Station.
 
-Poppy was fascinated by the vibrancy of life at the markets. She saw hawkers shouting above the crowds while pickpockets trawled the underbelly of those same crowds. She saw warriors and heroes celebrating great victories, she saw CEOs and nobles toast financial success, and she saw average office workers looking forward to another quiet evening at home. She saw foods and dyes, technology and magic, books and holovids. She saw arguments, protests, discussions, rumormongering, and whispers. She witnessed happiness, fear, sadness, and anger. Essentially, she saw every walk of life aboard Absalom Station from in that market.
+Poppy was fascinated by the vibrancy of life at the Free Markets. She saw hawkers shouting above the crowds while pickpockets trawled the underbelly of those same crowds. She saw warriors and heroes celebrating great victories, she saw CEOs and nobles toast financial success, and she saw average office workers looking forward to another quiet evening at home. She saw foods and dyes, technology and magic, books and holovids. She saw arguments, protests, discussions, rumormongering, and whispers. She witnessed happiness, fear, sadness, and anger. Essentially, she saw every walk of life aboard Absalom Station from in that market.
 
 ## Questions and Queries
 
@@ -20,7 +20,7 @@ This period of gradual progress, learning everything that Harker and those he tr
 
 Whenever Poppy brought up these worries, Harker would calmly reassure her but skillfully dance around any questions she had about his problems. He would assure her that he had everything under control and that she was in no danger. He would tell her when he was involved in some incident on the news, but never what he was doing there to begin with. However, Poppy was a clever girl. She knew that, if she couldn't wrestle an answer out of her father, she could follow the clues and figure it out for herself. She started by questioning Harker's confidants.
 
-Miss Iskeer responded to the questions only by *heavily* increasing the intensity of Poppy's combat training. Mrs. Lingdon stared at Poppy with an inscrutable but intense expression and flatly told Poppy to drop the subject. Mrs. Tompkins, on the other hand, was surprisingly receptive to Poppy's questions, although her understanding of the situation was limited. She quietly explained one night that Harker was engaged in some kind of conflict with a large criminal organization known as the Amos Family and that Poppy was somehow at the heart of their conflict. Also at the heart of the conflict was Harker's departed fiancé, Zatara, who Mrs. Tompkins learned had passed away a few months before meeting Poppy. She was also able to explain that, although she didn't fully understand the situation, Harker had hinted that things were getting worse, but that he had finally identified the Amos Family's main hideout and was planning one final assault.
+Miss Iskeer responded to the questions only by *heavily* increasing the intensity of Poppy's combat training. Mrs. Lingdon stared at Poppy with an inscrutable but intense expression and flatly told Poppy to drop the subject. Mrs. Tompkins, on the other hand, was surprisingly receptive to Poppy's questions, although her understanding of the situation was limited. She quietly explained one night that Harker was engaged in some kind of conflict with a large criminal organization known as the Veeno Family and that Poppy was somehow at the heart of their conflict. Also at the heart of the conflict was Harker's departed fiancé, Zatara, who Mrs. Tompkins learned had passed away a few months before meeting Poppy. She was also able to explain that, although she didn't fully understand the situation, Harker had hinted that things were getting worse, but that he had finally identified the Veeno Family's main hideout and was planning one final assault.
 
 Poppy, of course, wouldn't let him go into the den of the beast alone. She kept close tabs on her father's movements over the following days. When Harker went out without her, she'd trace his route as far as she could through the public surveillance systems she had infiltrated. When he'd type up his case notes at his desk, she would listen attentively for any thoughts whispered aloud. When they sat down for dinner, she would surreptitiously press him for any hint of a clue. None of these routes of investigation led anywhere. Her father was as careful as ever.
 
@@ -166,7 +166,7 @@ Aulk sighed, picked up the chip and walked to his computer. He checked the creds
 
 The Reverend stood and walked to his bedroom door with the urn and the vial. He pulled a pouch of gemstones out of his pocket. "See you at eighteen o'clock then," he said dryly, "Oh! And I *am* sorry for your loss. I knew Brent for many years but haven't met with him in some time. If you ever have need for anything, come to me."
 
-She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty. She couldn't rest that night. She was early again serving breakfast, but served lunch on time at noon. Around fifteen o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, then shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort and left.
+She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty. She couldn't rest that night. She was early again serving breakfast, but served lunch on time at noon. Around fifteen o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, then shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face now entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort and left.
 
 ## Meetings and Morbidity
 
@@ -188,7 +188,7 @@ Bierra brought the cup of water to Poppy's side. "You seem... harrowed... Mrs. B
 
 Poppy's dead eyes briefly sprung to life, piercing into Mrs. Parcier's face like a memory piercing into the past. Poppy was suddenly there again that night. She was witnessing Harker's body collapse to the floor... "Sorry! I... I didn't mean to make you relive that, Mrs. Brent. I just meant to ask whether... I don't know... was there any closure to his passing? Did they catch his killer?"
 
-The image of that mysterious, bulky mage who worked for the Amos family immediately came to Poppy's mind. "They found his killer's dead body," the android responded, "but, whatever was happening there, at least a few people managed to get away."
+The image of that mysterious, bulky mage who worked for the Veeno family immediately came to Poppy's mind. "They found his killer's dead body," the android responded, "but, whatever was happening there, at least a few people managed to get away."
 
 "Oh," the Notary let out, disappointment in her tone, "sorry."
 
@@ -204,8 +204,41 @@ The 6 people in the room each stated their name, one after another. Poppy wasn't
 
 "Right. The sixteenth of Neth two-eighty-one, and we have gathered here eighteen days later on the fourth of Kuthona two-eighty-one. We will now proceed with the reading. Poppy, Nikk-Nakk, please open your packages, and I will open mine."
 
-The three of them quickly broke open their individual manilla envelopes and pulled out their contents.
+The three of them quickly broke open their individual manilla envelopes and pulled out their contents. In addition to a stack of papers, fifteen sealed letters fell onto the conference table around which everyone was sitting. They seemed to be three copies of each of five different letters addressed 'To the Reverend', 'To the Armourer', 'To the Kid', 'To the Financier', and 'To Poppy'.
 
 ## Debts and Discoveries
 
+See [Last Will and Testament of Harker Brent](poppy-brent-last-will-and-testament-of-harker-brent.md) for the full document.
 
+Bierra started reading from the stack of papers aloud. At first, the document went over the necessary affirmation that Harker *willingly* wrote the will and testament and then there was a section about paying out any expenses incurred by Harker's death and paying any taxes incurred. Poppy was trying her best to pay attention through the reading without jumping ahead, but everything so far had been basic legal pre-ramble. She was glad that the expenses were handled at least.
+
+The document continued by naming Bierra Parcier the executor of Harker's will but also mentioned that, if Bierra was unwilling or unable to complete the duty, that Poppy would be in charge of that role. Being called on as a backup executor surprised Poppy to a degree. Until then, she had expected that Harker had thought of Poppy as a child, not someone who could be expected to manage his will after his passing.
+
+Then the document began listing beneficiaries and which items they would receive.
+
+> To Reverend Aulk Trellum, currently of the Downlow on Absalom Station, my close confidant, ally, and brother-in-law in another better life, I bequeath:
+>
+> - my personal copy of The Bones Land in a Spiral,
+> - the disintegration lash and zero pistol that once belonged to his dearly-departed half-sister Zatara Trellum,
+> - my locket containing a photograph of his dearly-departed half-sister Zatara Trellum,
+> - and the 150 credits I owe him for winning the bet where I claimed that he would die before I would.
+
+Poppy's eyes were drawn to the elven Reverend she had met only a few days prior. She recalled hearing from Mrs. Tompkins that Zatara was her father's fiancé and that she had passed away in some way because of the Veeno family. She supposed that that was something the two of them shared now.
+
+## PLANNING
+
+- Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself
+- Poppy begins decoding her father's notes while working as a landlord
+- Poppy starts working as a mercenary and adventurer under the codename Bloody Buttercup
+- Poppy gets involved in a gang-related ambush while guarding an alchemist
+- Poppy begins to investigate the gang-related ambush and how it came to be, finding connections to the Veeno family
+- Poppy reconnects with Iniga Tompkins who reveals her sister Samah has become a homeless drug addict
+- Poppy finds Samah Tompkins and learns that she killed Miss Iskeer and sold out her father to the Veeno family for drugs
+- Poppy helps Samah achieve sobriety and develops the ability to express her emotions again
+- Poppy, Plonk, and Samah open a private detective agency together in Poppy's old apartment
+- Poppy finishes decoding her father's notes, learning about the Veeno family, especially Amos Veeno, immortal head of the family who she identifies as the person who killed her father and subsequently died in an explosion
+- Samah passes away from illness at 59 years old. Her niece, Marida, joins the agency as an assistant
+- Plonk is mysteriously killed while on assignment investigating the theft of some magic items
+- Those same magic items later turn up at a bank heist, which Poppy investigates, leading to a fire fight, spots Amos Veeno and someone that looks exactly like Harker, and gets mortally wounded
+- Poppy gets the invitation from Imerri to go to Xanadu from her hospital bed
+- Then Poppies memories fade away

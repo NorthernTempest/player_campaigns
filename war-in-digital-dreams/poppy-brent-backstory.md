@@ -206,7 +206,7 @@ The 6 people in the room each stated their name, one after another. Poppy wasn't
 
 The three of them quickly broke open their individual manilla envelopes and pulled out their contents. In addition to a stack of papers, fifteen sealed letters fell onto the conference table around which everyone was sitting. They seemed to be three copies of each of five different letters addressed 'To the Reverend', 'To the Armourer', 'To the Kid', 'To the Financier', and 'To Poppy'.
 
-## Debts and Discoveries
+## Debts and Despair
 
 See [Last Will and Testament of Harker Brent](poppy-brent-last-will-and-testament-of-harker-brent.md) for the full document.
 
@@ -225,7 +225,73 @@ Then the document began listing beneficiaries and which items they would receive
 
 Poppy's eyes were drawn to the elven Reverend she had met only a few days prior. She recalled hearing from Mrs. Tompkins that Zatara was her father's fiancé and that she had passed away in some way because of the Veeno family. She supposed that that was something the two of them shared now.
 
-## PLANNING
+>To Rosella Mitra, currently of the Downlow on Absalom Station, my investment partner and life-long friend, I bequeath:
+>
+> - the 479 credits I owe her from various projects,
+> - a copy of my list of contacts,
+> - 20% ownership of Brent Properties ltd. along with 20% ownership of all its assets and profits, including the Spirewind Heights apartment complex,
+> - 100% ownership of Brent Chemical Supply ltd. along with ownership of all its assets and profits,
+> - and 100% ownership of Brent Detective Agency ltd. along with ownership of all its assets and profits, and
+> - all copies of the letter addressed "To the Financier"
+
+Poppy suddenly realized that she recognized the name Mitra, as well as the person attached to it. She had been introduced to Ms. Mitra years ago when Harker had been remortgaging the apartment complex. Ms. Mitra was a financial advisor and a friend of Harker's. Poppy, at the time, had wondered if the two of them weren't involved romantically. Now, Rosella's expression was set in stone and it was set to grim. She looked like she was holding back a lot of frustration. When the stern looking lady suddenly snatched at the nearest letter with the label "To the Financier", and tore it open, Poppy suddenly realized that the woman's eyes were unusually wet and tears were already beginning to stream down her face. She began to read the letter in the middle of the reading of the will and testament.
+
+Everyone around her paused, likely in surprise. As she read the first few lines she began to bawl openly, even gasping for air. Bierra stood and fetched the woman a drink from the stand in the corner of the room. It was several minutes until everything was calm again. Poppy noticed that Aulk had picked up one of his own letters and his eyes were moist as well. At least he didn't start reading it too. Poppy, meanwhile, retained the same empty expression she had sported since last meeting the elven Reverend and she looked on these events with dispassion and almost disinterest.
+
+Bierra spoke into the microphone, "we will be taking a short break. We will return in 30 minutes."
+
+## Loss and Love
+
+Over the break, Rosella disappeared into the washroom and cleaned herself up. She returned to the meeting wearing less makeup but otherwise wearing the same dour expression she had initially brandished when she came in. Her eyes still shone wet with tears.
+
+Bierra reinitiated proceedings, "our break has finished. It is now fourteen-thirty-five of the same day. We are recommencing the reading of the will and testament."
+
+> To Mickey Karndt, currently of the Downlow on Absalom Station, my arms dealer and drinking buddy, I bequeath:
+>
+> - My collection of firearms, alchemical weapons, armour, and shields, except for one firearm and one piece of armour of Poppy's choice,
+> - 26 credits I owe him for covering my tab, and
+> - all copies of the letter addressed "To the Armourer"
+
+"Damn! That'll be *something* alright!" Mickey said under his breath. A painfully sharp stare from half the eyes in the room kept him from saying any more. Poppy had never met Mickey, and she wasn't immediately inclined to know him better after that statement. Mr. Karndt picked up his letters and proceedings continued.
+
+> To Nikk-Nakk, currently of Little Akiton on Absalom Station, my adventuring mentee, I bequeath:
+>
+> - 500 credits,
+> - my copy of "Socioeconomic Equality In Review", and
+> - all copies of the letter addressed "To the Kid"
+
+Poppy had seen Nikk-Nakk around too. Harker would often be pestered by the little adventurer, but never seemed to mind. The ysoki was dressed in mechanic's clothes, rather than armor or clothing more suited for action. Poppy considered the small scruffy creature. She decided that if Harker found it worth investing 500 credits into the young ysoki, she would believe in and hope for his success too. Nikk-Nakk collected the letters with addressed "To the Kid"
+
+> To Poppy Brent, currently of the Downlow on Absalom Station, my beloved daughter, I bequeath:
+>
+> - The remainder of my credits, bonds, shares, and other financial assets,
+> - 80% ownership of Brent Properties, ltd. along with 80% ownership of all its assets and profits, including the Spirewind Heights apartment complex,
+> - one firearm of her choice from my collection of firearms,
+> - one piece of armour of her choice from my collection of armour,
+> - The remainder of my personal assets, and
+> - all copies of the letter addressed "To Poppy"
+
+Poppy immediately recognized the value of what Harker had left for her. Harker had earned a substantial sum over the years working as an adventurer. He didn't choose to live in Downlow because of the low cost of living. He was there because he knew he could do the most good there. Poppy picked up the letter addressed to her. She stared intently at the letter. She must know what Harker had to say to her. She couldn't help losing track of things around her as she began to consider what might be inside.
+
+Before Poppy realized, Nikk-Nakk and Bierra put down their copies of the will and testament. The reading was done, then? Poppy lowered her own papers to show that she was paying attention. Bierra looked around the room, seemingly to gauge the state of the beneficiaries. Her eyes eventually landed on Poppy. "Before we end the meeting, there is one matter that I must elaborate on. As executor, I have taken stock of Harker's assets in preparation for today. Between stock shares, bonds, creds, and physical assets, as far as I am aware, Harker's total worth at the time of his death was thirty-two-thousand seven-hundred-and-twenty-two creds"
+
+Poppy didn't react. The number was within her expectations, albeit a little higher than her estimate. "Excluding the amounts listed under the other beneficiaries, the amount comes to thirty-one-thousand five-hundred-and-sixty-seven. I will be taking two-hundred-eighteen credits for my fees and expenses, leaving you with thirty-one-thousand-three-hundred-and-fourty-nine credits. I recommend you invest it wisely."
+
+"Yes," Poppy responded, "of course."
+
+Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfortable but couldn't work up the smallest amount of discomfort. Rather than face the eyes though, she turned to the letter she grasped. She tore it open. Before she even started reading, her eyes were a blurry mess. For the first time since she learned of the resurrection's failure, she could feel again. It was awful timing. She burst out in tears, wiped them away, managed to read a word or two, and then her eyes would go blurry again. She knew the others must be watching, perhaps judging her, but she couldn't stop herself.
+
+> My dear Poppy,
+>
+> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost someone close to my heart, I thought that my life would be empty there on. You filled my life back up to the brim. I owe you many times over what I was able to leave you in my will, but I doubt that a single cred mattered to you.
+> 
+> I'm sorry. I've managed to fail at my goals on the 16th of Neth... but more importantly, I failed to keep my promise to you that I would see you again. I hope I at least was able to make that promise.
+>
+> You must have a lot of questions. For a man whose profession was to find the truth and fight for justice, I have held back too much of the truth from you and thereby done you great injustice.
+
+## 
+
+# Planning
 
 - Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself
 - Poppy begins decoding her father's notes while working as a landlord

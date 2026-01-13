@@ -47,7 +47,7 @@ To Mickey Karndt, currently of the Downlow on Absalom Station, my arms dealer an
 
 ### Beneficiary 4
 
-To Nikk-Nakk, currently of the Downlow on Absalom Station, my adventuring mentee, I bequeath:
+To Nikk-Nakk, currently of Little Akiton on Absalom Station, my adventuring mentee, I bequeath:
 
 - 500 credits,
 - my copy of "Socioeconomic Equality In Review", and
@@ -66,7 +66,7 @@ To Poppy Brent, currently of the Downlow on Absalom Station, my beloved daughter
 
 If any of my beneficiaries have pre-deceased me, then any property that they would have received if they had not pre-deceased me shall be distributed to Beneficiary 5, Poppy Brent.
 
-If any of my property cannot be readily sold and distributed, then it may be donated to the Church of Beloved Souls Addiction and Homing Initiative. If any property cannot be readily sold or donated, my Executor may, without liability, dispose of such property as my Executor may deem appropriate. I authorize my Executor to pay as an administration expense of my estate the expense of selling, advertising for sale, packing, shipping, insuring, and delivering such property.
+If any of my property cannot be readily sold and distributed, then it may be donated to the Church of Beloved Souls Addiction Treatment and Homing Initiative. If any property cannot be readily sold or donated, my Executor may, without liability, dispose of such property as my Executor may deem appropriate. I authorize my Executor to pay as an administration expense of my estate the expense of selling, advertising for sale, packing, shipping, insuring, and delivering such property.
 
 ## 4. Omission
 

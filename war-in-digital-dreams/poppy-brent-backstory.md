@@ -283,9 +283,9 @@ Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfor
 
 > My dear Poppy,
 >
-> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost someone close to my heart, I thought that my life would be empty there on. You filled my life back up to the brim. I owe you many times over what I was able to leave you in my will, but I doubt that a single cred mattered to you.
+> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my life back up to the brim. I owe you many times over what I was able to leave you in my will, but I doubt that a single cred mattered to you.
 > 
-> I'm sorry. I've managed to fail at my goals on the 16th of Neth... but more importantly, I failed to keep my promise to you that I would see you again. I hope I at least was able to make that promise.
+> I'm sorry. I've managed to fail at my goals for the 16th of Neth... but more importantly, I failed to keep my promise to you that I would see you again.
 >
 > You must have a lot of questions. For a man whose profession was to find the truth and fight for justice, I have held back too much of the truth from you and thereby done you great injustice.
 

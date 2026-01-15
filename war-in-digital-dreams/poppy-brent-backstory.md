@@ -283,16 +283,18 @@ Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfor
 
 > My dear Poppy,
 >
-> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my life back up to the brim. I owe you many times over what I was able to leave you in my will, but I doubt that a single cred mattered to you.
+> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my heart back up to the brim. Since you came into this world, you have been my purpose for being
 > 
-> I'm sorry. I've managed to fail at my goals for the 16th of Neth... but more importantly, I failed to keep my promise to you that I would see you again.
+> I'm sorry. I've failed you by not coming back. And this mistake is the one I can't fix, recompense, or properly apologize for. I imagine you are hurt and I cannot be there to comfort you. I owe you many times over what I was able to leave you in my will, but I doubt that a single credit mattered to you.
 >
 > You must have a lot of questions. For a man whose profession was to find the truth and fight for justice, I have held back too much of the truth from you and thereby done you great injustice.
-
+> 
+> I will leave you with this final lesson from my grave. If you are to follow in my footsteps as a detective or a chemist, there are two essential tools in your locker. First, the evidence will tell you the truth, the whole absolute truth, if you observe it carefully and ignore the noise around you. Second, always have a plan. Having a plan is how you learn to
 ## 
 
 # Planning
 
+- Fix the stuff with Aulk Trellum so that 1 day of spellcasting = 8 hours
 - Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself
 - Poppy begins decoding her father's notes while working as a landlord
 - Poppy starts working as a mercenary and adventurer under the codename Bloody Buttercup
@@ -307,4 +309,5 @@ Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfor
 - Plonk is mysteriously killed while on assignment investigating the theft of some magic items
 - Those same magic items later turn up at a bank heist, which Poppy investigates, leading to a fire fight, spots Amos Veeno and someone that looks exactly like Harker, and gets mortally wounded
 - Poppy gets the invitation from Imerri to go to Xanadu from her hospital bed
-- Then Poppies memories fade away
+- Then Poppy's memories fade away
+- Poppy is currently unable to stand or walk, and once she leaves Xanadu will have to adjust to not being able to stand.

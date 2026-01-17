@@ -158,15 +158,17 @@ The elf stood aside and invited Poppy into his quarters. A small dining table fo
 
 Aulk sighed, picked up the chip and walked to his computer. He checked the creds on the chip and said "It's all here. I'll be back. I need to collect the material components. In the meantime, there's tea in the cupboard and a kettle. I'm going to lock up while I'm gone, so please don't leave."
 
-20 minutes passed while Poppy waited, tea in hand then in stomach. Poppy heard the door to the street unlock, open, then close. She stood up, but before she could say a word, Aulk was at the door to his quarters and was already indicating she should sit down again. "This spell will take a day to cast," He explained, "If you could, would you please bring me food and drink when I need it?"
+20 minutes passed while Poppy waited, tea in hand then in stomach. Poppy heard the door to the street unlock, open, then close. She stood up, but before she could say a word, Aulk was at the door to his quarters and was already indicating she should sit down again. "This spell will take eight hours to cast," He explained, "If you could, would you please bring me food and drink when I need it?"
 
 "Yes," she nodded, "anything else?"
 
-"No thank you."
+"No. Thank you, dear."
 
-The Reverend stood and walked to his bedroom door with the urn and the vial. He pulled a pouch of gemstones out of his pocket. "See you at eighteen o'clock then," he said dryly, "Oh! And I *am* sorry for your loss. I knew Brent for many years but haven't met with him in some time. If you ever have need for anything, come to me."
+The Reverend stood and walked to his bedroom door with the urn and the vial. He pulled a pouch of gemstones out of his pocket. "See you at eighteen o'clock then," he said dryly, "Oh. And I *am* sorry for your loss. I knew Brent for many years but haven't met with him in some time. If you ever have need for anything, come to me."
 
-She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty. She couldn't rest that night. She was early again serving breakfast, but served lunch on time at noon. Around fifteen o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, then shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face now entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort and left.
+She nodded again. The elf closed the door behind him. Poppy heard him begin incanting the spell on the other side. She waited patiently, and waited, and waited. She began cooking dinner around half past sixteen o'clock, a little too early for the Reverend's requested eighteen o'clock serving time. That meal was served around seventeen thirty, and Aulk accepted it gratefully. She couldn't rest that night as she rested in the adjacent room.
+
+Around twenty-three o'clock, the chanting from Aulk's room stopped as did the sound of shifting magic. Poppy sat upright, at rapt attention to the handle of the door. When the knob rotated and Aulk's head appeared, frowned, then gently shook, Poppy felt a weight in her chest drop into the pit of her stomach. She covered her face, expecting to cry again, but nothing came. After a moment, she slowly lowered her arms, revealing her face now entirely devoid of emotion. She quietly thanked Reverend Aulk for his time and effort. He apologized once again for her loss, handed her her father's ashes, and left.
 
 ## Meetings and Morbidity
 
@@ -225,7 +227,7 @@ Then the document began listing beneficiaries and which items they would receive
 
 Poppy's eyes were drawn to the elven Reverend she had met only a few days prior. She recalled hearing from Mrs. Tompkins that Zatara was her father's fiancé and that she had passed away in some way because of the Veeno family. She supposed that that was something the two of them shared now.
 
->To Rosella Mitra, currently of the Downlow on Absalom Station, my investment partner and life-long friend, I bequeath:
+>To Rosella Mitra, currently of the Ring on Absalom Station, my investment partner and life-long friend, I bequeath:
 >
 > - the 479 credits I owe her from various projects,
 > - a copy of my list of contacts,
@@ -236,13 +238,13 @@ Poppy's eyes were drawn to the elven Reverend she had met only a few days prior.
 
 Poppy suddenly realized that she recognized the name Mitra, as well as the person attached to it. She had been introduced to Ms. Mitra years ago when Harker had been remortgaging the apartment complex. Ms. Mitra was a financial advisor and a friend of Harker's. Poppy, at the time, had wondered if the two of them weren't involved romantically. Now, Rosella's expression was set in stone and it was set to grim. She looked like she was holding back a lot of frustration. When the stern looking lady suddenly snatched at the nearest letter with the label "To the Financier", and tore it open, Poppy suddenly realized that the woman's eyes were unusually wet and tears were already beginning to stream down her face. She began to read the letter in the middle of the reading of the will and testament.
 
-Everyone around her paused, likely in surprise. As she read the first few lines she began to bawl openly, even gasping for air. Bierra stood and fetched the woman a drink from the stand in the corner of the room. It was several minutes until everything was calm again. Poppy noticed that Aulk had picked up one of his own letters and his eyes were moist as well. At least he didn't start reading it too. Poppy, meanwhile, retained the same empty expression she had sported since last meeting the elven Reverend and she looked on these events with dispassion and almost disinterest.
+Everyone around her paused, likely in surprise. As she read the first few lines she began to bawl openly, even gasping for air. Bierra stood and fetched the woman a drink from the stand in the corner of the room. It was several minutes until everything was calm again. Poppy noticed that Aulk had picked up one of his own letters but not opened it. His usually solemn eyes were moist as well. At least he didn't start reading it too. Poppy, meanwhile, retained the same empty expression she had sported since last meeting the elven Reverend and she looked on these events with dispassion and almost disinterest.
 
 Bierra spoke into the microphone, "we will be taking a short break. We will return in 30 minutes."
 
 ## Loss and Love
 
-Over the break, Rosella disappeared into the washroom and cleaned herself up. She returned to the meeting wearing less makeup but otherwise wearing the same dour expression she had initially brandished when she came in. Her eyes still shone wet with tears.
+Over the break, Rosella disappeared into the washroom, finished reading her letter, and cleaned herself up. She returned to the meeting wearing less makeup but otherwise wearing the same dour expression she had initially brandished when she came in. Her eyes still shone wet with tears, and she stared questioningly at Poppy, averting her eyes when Poppy looked to meet them.
 
 Bierra reinitiated proceedings, "our break has finished. It is now fourteen-thirty-five of the same day. We are recommencing the reading of the will and testament."
 
@@ -285,16 +287,54 @@ Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfor
 >
 > I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my heart back up to the brim. Since you came into this world, you have been my purpose for being
 > 
-> I'm sorry. I've failed you by not coming back. And this mistake is the one I can't fix, recompense, or properly apologize for. I imagine you are hurt and I cannot be there to comfort you. I owe you many times over what I was able to leave you in my will, but I doubt that a single credit mattered to you.
+> I'm sorry. I've failed you by not coming back. And this mistake is the one I can't fix, recompense, or properly apologize for. I imagine you are hurt and I cannot be there to comfort you. I owe you many times over what I was able to leave you in my will, and I doubt that a single credit mattered.
 >
-> You must have a lot of questions. For a man whose profession was to find the truth and fight for justice, I have held back too much of the truth from you and thereby done you great injustice.
+> You must have a lot of questions. For a man whose profession was to find the truth and fight for justice, I have held back too much of the truth from you and thereby done you great injustice. There are two things about you that I had always intended to tell you when the time was right but never had the opportunity to say.
 > 
-> I will leave you with this final lesson from my grave. If you are to follow in my footsteps as a detective or a chemist, there are two essential tools in your locker. First, the evidence will tell you the truth, the whole absolute truth, if you observe it carefully and ignore the noise around you. Second, always have a plan. Having a plan is how you learn to
+> First, Zatara, my fiancée, was the woman who designed, created, and named you. She died protecting you and your designs from the Veeno family by exploding the foundry in which you were built, dying in the process. Since then, the Veeno family has been after the two of us, and I have been protecting you with the best of my ability.
+> 
+> Second, when you were initially created, you were designed to be a highly capable weapon. Zatara had intended to use you to break up the gangs in the Spike and have you act as a guardian for the civilians there. It seems that, shortly before her death, she chose to reprogram you to be more independent and to choose your path for yourself.
+> 
+> I will leave you with this final lesson from my grave. If you are to follow in my footsteps as a detective or a chemist, there are two essential tools in your locker. First, the evidence will tell you the truth, the whole absolute truth, if you observe it carefully and ignore the noise around you. Second, always have a plan. Having a plan is the first step on your path to success. Without one, improvising becomes harder, no matter how good you are at it.
+> 
+> In times of trouble, feel free to rely on the people I have left my will to, in addition to the people I had teach you. Each one of them is reliable and a close friend, even if some of them are a little estranged to me at the moment. I should think that my death won't change that. In my letters to them, I have asked them to support you where they can, and I believe they will do so.
+>
+> I love you, Poppy, and I'm sorry. Please go on to achieve your dreams, whatever they might be. Remember those lessons I was able to impart to you. I'm sure that you'll live through a great number of troubles but with your skills, you'll find a way to survive. More than anything, Poppy, I hope you find happiness and success in any path you choose in life.
+> 
+> Harker Brent, loving father
+
+Poppy leaned back into her chair. She had stopped crying half way through reading the letter but she felt exhausted, drained from her burst of emotions. Everyone around her was looking at her in silence. Her gaze moved across the room, meeting the eyes of each person one after another.
+
+"I'm sorry. I- I don't know what to do now," Poppy managed to get out, "What am I meant to do now?"
+
+The room burst into chatter, as the others began going over their thoughts. Poppy felt a sense of ease, putting her faith in her father's trusted friends. It felt like he was guiding her still even past the end of his life. Exhaustion and sleep took her as she suddenly realized how comfy the chair she was slouching in was.
+
+## Sleep and Solidarity
+
+The people gathered at this meeting were all true friends of Harker's. While Poppy was reading her letter, each had read their own and the words that Harker had left them had moved each of them to action. They realized that Poppy was aimless and hurting and in need of people to support her. As she slept silently in seat, the others confirmed each others' agreement with Harker's last request to them.
+
+After they came to agree on that, they started to ask each other what they knew of the secretive Harker and his android daughter. It wasn't much. Each of them knew bits and pieces of Harker. All of them had heard from him about the existence of a daughter, but none, save Aulk, had ever met her, and even then, not until just days ago. They all agreed that Harker's death came at a great surprise and that each were surprised that Harker hadn't asked for their help in his final battle.
+
+Harker's final request to look after Poppy made sense from the dead man's perspective, of course, but why did he bring together this strange collection of people to bring it about? Each of them was now in significant debt towards Harker after the things he had given them. The copy of The Bones Land in a Spiral that Harker had left Aulk was a rare copy originally from Golarion, and had been dated to within 50 years of 4050 AR, some 1000 years or so before the end of the Gap. The investments that Rosella had received were worth many times the amount that she had initially lent him to realize them. Mickey knew that Harker's collection of weapons was unmatched and worth a small fortune. Nikk-Nakk, having received more credits than he had ever known, was no less speechless at the gesture.
+
+They each had skills that Harker had recognized, of course. Aulk was a talented cleric and spellcaster. Rosella was a quick-witted and wealthy day-trader. Mickey was a capable weapon smith. Nikk-Nakk was making waves in the Starfinder Society as a mechanic. But none of them were especially good at caring for an android woman they had never met.
+
+After a few hours spent discussing, Poppy woke up to the sound of raised voices. The four other inheritors and Bierra were arguing about whether Poppy was an adult or a child. When Poppy's eyes opened, and looked at them all, they each felt a little silly.
+
+Since the hour was getting a little late and most people were feeling hungry after everything that had happened, Rosella suggested they move the discussion to a restaurant. Everyone agreed, and moved to a private hole in the wall that Bierra knew. There, the group grilled Poppy on everything they could think of. What had happened to Harker? How old was Poppy? What had Harker taught Poppy? Why had Mrs. Tompkins and Mrs. Lingdon left? What had happened to the indomitable Miss Isreek? They spent hours trying to gather what information they could. Poppy was happy to have everyone concerned about her and to be able to talk about her problems with people she could trust.
+
+Eventually, the restaurant started to close down for the night, and they determined it was for the best if they would rest for the night and come back to the problem tomorrow, agreeing to meet at the same restaurant when it opened late the next morning. Poppy barely slept that night, but eagerly arrived at the restaurant a half hour early. She arrived surprised to find that all the others had beaten her to the meeting. After another long day of talking, exchanging notes, and eating together, they came to only one conclusion.
+
+Poppy hadn't been caring for herself. She was suffering from a significant amount of emotional distress and needed someone to help her look after her immediate needs. None of the people gathered there were able to pick up and move and none of them were able to move in with Poppy for the time being. Nikk-Nakk, however, mentioned that he had a cousin who was looking for a place to stay in the Downlow and was looking for work. Someone he trusted and was close with.
+
+After another long day of discussion, the most they could come up with was that Poppy should meet with this cousin of Nikk-Nakk's and see if they would be a good roommate. They all exchanged contact information and agreed to keep in touch. From then on, each of them would call on Poppy about once a week and would be reliable contacts whenever she got in trouble.
+
+The next day, Poppy showered, ate, and sat alone in her apartment. The walls seemed empty and unwelcoming without Harker or anyone to share them with. She took up the time by solidifying plans to meet with Plonk, Nikk-Nakk's cousin. They decided to meet up at a nearby restaurant and make their way to the apartment complex if they hit it off. Poppy drifted off to sleep uneasily, the dead empty walls seeming to mock her the entire time.
+
 ## 
 
 # Planning
 
-- Fix the stuff with Aulk Trellum so that 1 day of spellcasting = 8 hours
 - Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself
 - Poppy begins decoding her father's notes while working as a landlord
 - Poppy starts working as a mercenary and adventurer under the codename Bloody Buttercup

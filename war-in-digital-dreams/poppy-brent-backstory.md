@@ -333,6 +333,24 @@ The next day, Poppy showered, ate, and sat alone in her apartment. The walls see
 
 ## 
 
+Poppy woke with a start. It wasn't so much a nightmare that woke her up as it was an awful memory. It was a little early to start getting ready to meet with Plonk but Poppy was eager to leave and quickly made ready. She would browse the Downlow markets while she waited. She turned on the shower to high pressure and used some of her favourite scent spray before jumping in. After she was clean, she did her hair and makeup and then quickly trimmed and painted her nails.
+
+The streets were dusty on the way to the markets and the quiet bustle of hushed folk made for little distraction from her thoughts. She reprimanded herself over *still* not being able to get her father's death out of her head. It had been weeks and he would want her to live her life seeking her own path, not distressing herself over losing him. She was in the markets and began to browse her favourite clothing stand absentmindedly. She sighed. Some people sought therapy after a traumatic death. That was an option. She bumped into a small boy and caught his wrist as he attempted to pry her purse from her pocket. "Just let go. I don't have time to do the paperwork to get you arrested," she stated flatly.
+
+The boy let go. She went on her way. She stopped at a stall where they were selling some kind of meat on skewers. The boy tried to steal her purse again. She caught him again. "Stop. Don't make me go find your mother."
+
+"My mother is the one who told me to pick your pockets, miss," the boy responded half mockingly half abashedly.
+
+"Fine then. Take me to her."
+
+The boy led the way. The mother wasn't there anymore. Poppy sighed. "If your mother tells you to pick my pockets again tell her I'm a P.I. and that forcing kids to do their mother's dirty work puts me into an investigative mood," she instructed.
+
+The boy nodded and Poppy left. The boy didn't bother her again. Poppy eventually made her way to a small pub and restaurant named Spinner's Dive. Poppy asked the worker at the front if Plonk had arrived and was told they hadn't. She asked for and was seated at a table for two. Poppy fiddled with her comm unit while she waited. Plonk, a thin, grey-haired ysoki with bright eyes and dressed in blue and silver, sat down across from Poppy a few minutes later. "Hi, I'm Plonk!" Plonk introduced herself with, "It's a pleasure to meet you, and my pronouns are they/them."
+
+"Nice to meet you!" Poppy responded, "I'm Poppy and I go by she/her."
+
+They shook hands. As someone stopped by to take their drink order, Poppy started the conversation, "I've recently been through a traumatic death and haven't been paying attention to my needs. Also, I'm not comfortable living alone. I've never done it before and the apartment feels too empty now. I own majority share in an apartment building where I live but
+
 # Planning
 
 - Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself

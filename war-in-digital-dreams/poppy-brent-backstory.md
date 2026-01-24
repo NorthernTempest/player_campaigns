@@ -16,7 +16,7 @@ Poppy was fascinated by the vibrancy of life at the Free Markets. She saw hawker
 
 ## Questions and Queries
 
-This period of gradual progress, learning everything that Harker and those he trusted could teach her, lasted twelve years. As an eager and intelligent student, Poppy avidly absorbed every piece of information that she could. Over the course of those years, Poppy slowly grew more and more aware that some great trouble ate away at her father. He would slink off into the night while she rested and return home battered, bruised, and bleeding. At times, he would start at the smallest of things. At others, he would be too exhausted to react when Poppy called out to him as loud as she could.
+This period of gradual progress, learning everything that Harker and those he trusted could teach her, lasted fifteen years. As an eager and intelligent student, Poppy avidly absorbed every piece of information that she could. Over the course of those years, Poppy slowly grew more and more aware that some great trouble ate away at her father. He would slink off into the night while she rested and return home battered, bruised, and bleeding. At times, he would start at the smallest of things. At others, he would be too exhausted to react when Poppy called out to him as loud as she could.
 
 Whenever Poppy brought up these worries, Harker would calmly reassure her but skillfully dance around any questions she had about his problems. He would assure her that he had everything under control and that she was in no danger. He would tell her when he was involved in some incident on the news, but never what he was doing there to begin with. However, Poppy was a clever girl. She knew that, if she couldn't wrestle an answer out of her father, she could follow the clues and figure it out for herself. She started by questioning Harker's confidants.
 
@@ -36,7 +36,7 @@ Poppy, in a rush of emotions, stood up from the table, took her plate of food, r
 
 ## Pain and Push
 
-She was losing time. She was falling behind her father. Poppy slammed the butt of the knife into the window. It shattered. She knocked the broken glass out of the way and climbed out onto the emergency escape stairway. Grey android blood slowly streamed down her leg from a small gash close to her left knee. It didn't matter. She rushed down the stairs, but spotted a problem as soon as she got to the bottommost landing. Old Miss Iskeer was gazing up at Poppy from the ground. She held a baton in her hands and was standing ready to use it. "Dear, you turn around right now. I know you *think* you know what's best, but you're only 12 years old. Leave all this to the adults. This is your father's problem to face, not yours."
+She was losing time. She was falling behind her father. Poppy slammed the butt of the knife into the window. It shattered. She knocked the broken glass out of the way and climbed out onto the emergency escape stairway. Grey android blood slowly streamed down her leg from a small gash close to her left knee. It didn't matter. She rushed down the stairs, but spotted a problem as soon as she got to the bottommost landing. Old Miss Iskeer was gazing up at Poppy from the ground. She held a baton in her hands and was standing ready to use it. "Dear, you turn around right now. I know you *think* you know what's best, but you're only fifteen years old. Leave all this to the adults. This is your father's problem to face, not yours."
 
 Poppy took a running jump, hoping to land past Miss Iskeer so that she wouldn't have to fight the old lady. You may think that was for said old lady's benefit but, in reality, Poppy had never bested the wry old lady in a practice match, except by outrunning her bum leg. Poppy landed harder than she expected on her scratched leg and came down on her knees. Quick as a whip, Miss Iskeer's baton cracked against the android's skull. Poppy was seeing stars already. She picked up faster than she thought she could and she ran. Miss Iskeer swiped again but only hit air and swore, "Fuck!" as Poppy ducked under the blow and quickly ran out of Miss Iskeer's reach. As Poppy rounded the corner, Miss Iskeer hobbling behind, she muttered under her breath "Harker, you can't leave a job like this to an old lady like me!... Oh dear. She's really gotten away now. I suppose I can only hope that I've been a better teacher than a prison guard."
 
@@ -112,7 +112,7 @@ Poppy was dismissed from the hospital the next day, her injured legs, minor burn
 
 Poppy tried to learn more about the investigation into the events of that night. She learned from the inspectors she was interviewed by that a significant amount of drugs and alchemical goods had been either destroyed in the fire or seized by the authorities. There were secret rooms in the basement with large quantities of credits stowed in locked safes. The whole building had been burned through. Whatever illegal operation was going on there was finished.
 
-Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coercion, and complicity with Barker's murder. All of it eventually stuck, and she received 35 years in prison followed by life on parole. That was almost as bad as the scars across her body that she received in the warehouse explosion.
+Poppy identified the woman in the burn unit as her attacker after she had undergone reconstructive work. The police charged her with assault, coercion, and complicity with Barker's murder. All of it eventually stuck, and she received 35 years in prison followed by a chance at life on parole. All through this process, the woman refused to give her name and no identity was ever established. She was tried and imprisoned under the pseudonym of 'Jane Doe'. That was almost as bad as the scars across her body that she received in the warehouse explosion.
 
 The investigators were concerned by only one thing. The cargo transport that had escaped that night may have gotten away with who knows how many criminals or illegal goods. They never found out where it went though. Poppy hadn't been able to catch the vehicle's license plate. That puzzle, even Poppy had no clue how to solve.
 
@@ -285,7 +285,7 @@ Eyes shifted to Poppy. All the eyes in the room. Poppy should have felt uncomfor
 
 > My dear Poppy,
 >
-> I love you. These past twelve years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my heart back up to the brim. Since you came into this world, you have been my purpose for being
+> I love you. These past fifteen years have been filled with more happiness than I could have ever imagined. In a time where I lost Zatara, my heart felt empty like the void. When you came, you filled my heart back up to the brim. Since you came into this world, you have been my purpose for being
 > 
 > I'm sorry. I've failed you by not coming back. And this mistake is the one I can't fix, recompense, or properly apologize for. I imagine you are hurt and I cannot be there to comfort you. I owe you many times over what I was able to leave you in my will, and I doubt that a single credit mattered.
 >
@@ -353,6 +353,8 @@ They shook hands. As someone stopped by to take their drink order, Poppy started
 
 # Planning
 
+## Backstory Outline
+
 - Poppy moves in with Nikk-Nakk's cousin Plonk at Nikk-Nakk's request since Poppy hasn't been taking care of herself
 - Poppy begins decoding her father's notes while working as a landlord
 - Poppy starts working as a mercenary and adventurer under the codename Bloody Buttercup
@@ -360,12 +362,67 @@ They shook hands. As someone stopped by to take their drink order, Poppy started
 - Poppy begins to investigate the gang-related ambush and how it came to be, finding connections to the Veeno family
 - Poppy reconnects with Iniga Tompkins who reveals her sister Samah has become a homeless drug addict
 - Poppy finds Samah Tompkins and learns that she killed Miss Iskeer and sold out her father to the Veeno family for drugs
-- Poppy helps Samah achieve sobriety and develops the ability to express her emotions again
+- Poppy helps Samah achieve sobriety
 - Poppy, Plonk, and Samah open a private detective agency together in Poppy's old apartment
-- Poppy finishes decoding her father's notes, learning about the Veeno family, especially Amos Veeno, immortal head of the family who she identifies as the person who killed her father and subsequently died in an explosion
-- Samah passes away from illness at 59 years old. Her niece, Marida, joins the agency as an assistant
+- Poppy finishes decoding her father's notes, learning about the Veeno family, especially Amos Veeno, immortal head of the family who she identifies as the person who killed her father and subsequently died in an explosion. Certain records are missing. Poppy surmises that Harker had deleted most records about what happened between Harker and the Veeno family before Zatara's death so that Poppy wouldn't be able to look into it in the case of Harker's death.
+- Samah passes away from illness at 62 years old. Her niece, Marida, joins the agency as an assistant
 - Plonk is mysteriously killed while on assignment investigating the theft of some magic items
 - Those same magic items later turn up at a bank heist, which Poppy investigates, leading to a fire fight, spots Amos Veeno and someone that looks exactly like Harker, and gets mortally wounded
-- Poppy gets the invitation from Imerri to go to Xanadu from her hospital bed
+- Poppy gets the invitation from Imerri to go to Xanadu from her hospital bed shortly after waking up from surgery
 - Then Poppy's memories fade away
-- Poppy is currently unable to stand or walk, and once she leaves Xanadu will have to adjust to not being able to stand.
+
+## Changes After Poppy Returns
+
+- Poppy is currently unable to stand or walk, and once she leaves Xanadu will have to adjust to not being able to use her legs like normal. She awakens with a wheelchair nearby, assuming she got to where she is under her own power.
+- Poppy's attacker during Harker's final assault on the Veeno family under the pseudonym 'Jane Doe' has been released from jail on probation. Poppy was meant to act as a witness at her probation hearing but missed it while away in Xanadu. She has likely since gone missing and returned to the Veeno family, but I leave that to the gamemaster to decide.
+- Poppy's apartment building has been damaged and become uninhabitable while she was gone. She has automatic backups of her and her father's records stored safely on a server elsewhere, but most other things are likely destroyed. She would have also kept her life savings in a hidden fire-proof safe, which may have been stolen or otherwise destroyed. She would have insurance, but it wouldn't be worth much more than the cost to repair the building.
+- Many of Poppy's professional contacts have gone missing suddenly. Notably, Nikk-Nakk is still around and dealing with some trouble with the corpos and authorities. (See Starfinder 2e Galaxy Guide pg. 85)
+
+## Open-Ended Questions
+
+- Why was Harker Brent unable to be revived? He would have if he could have.
+	- Did he turn into an undead somehow?
+	- Is his soul somehow trapped somewhere?
+	- Is he already alive but cannot return to Poppy? If so, why?
+	- Has he already been judged by Pharasma? If so, why did it happen so quickly and despite the fact that there was a plan to revive him?
+- Who is the person Poppy spots that looks like Harker?
+	- A twin?
+	- A clone?
+	- A hologram?
+	- A monster with mimicry?
+	- Harker himself, but brainwashed?
+	- Harker himself, but coerced?
+- How did Poppy get from the hospital to Xanadu?
+	- This might be more so explained by the story of War in Digital Dreams rather than by Poppy's own actions or the actions of people from her backstory.
+- How has the apartment building become abandoned?
+- What happened to the apartment building's occupants?
+- Why is Amos Veeno back from the dead?
+	- Not undeath. Amos does not like the idea of being undead. He sees it as being imprisoned, in a sense.
+		- Vampires, for example cannot enter sunlight or buildings without someone's consent.
+		- Liches must place their soul within an object that they must guard.
+		- Etc.
+	- Clones?
+	- Reincarnation?
+	- Alchemy?
+	- Wizard magic?
+	- Digital backups of his mind?
+	- Something related to War in Digital Dreams?
+- What happened to Poppy's contacts?
+	- Are they in hiding?
+	- Murdered?
+	- Kidnapped?
+	- Away?
+- Why did Veeno want Poppy so badly that they killed Zatara so long ago?
+	- So far, she seems like a normal android in most respects.
+	- Did Zatara and Harker do something unusual to Poppy?
+	- How does it lead to the Veeno family?
+	- What were Harker and Zatara's conflicts with the Veeno family before Zatara's death like?
+- Is the Veeno family involved in Nikk-Nakk's issues with the authorities? (See Starfinder 2e Galaxy Guide pg. 85)
+- Why are the Veeno family back, seemingly in full force?
+	- They are taking magic items and money
+	- They're likely involved in Poppy's contacts going missing
+	- They were involved in drugs and alchemy before, did that change?
+	- Where did the family get underlings and money?
+	- Are they working with another gang?
+	- What happened with the cargo transport that escaped the scene of Poppy's father's last moments?
+	- There's almost certainly a grander plan, and for some reason, Poppy herself is at the heart of it.

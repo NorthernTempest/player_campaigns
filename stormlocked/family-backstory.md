@@ -12,7 +12,7 @@
 	- Irimi: 38 year old cis female Vishkanyan Gunslinger
 - 3 parents
 	- Ishnari III: 81 year old cis male Vishkanyan Wizard, recently deceased from disease, father of all 7 siblings
-	- Hasharada: 78 year old cis female Vishkanyan Wizard, deceased 45 years ago at the age of 33 from genetic disease, mother of Idara, Imrada, Linsari, Sashri, Trepti, and Ysanti
+	- Hasharada: 78 year old cis female Vishkanyan Wizard, deceased 45 years ago at the age of 33 from genetic disease, mother of Idara, Imrada, Linsari, [Sashri](sashri-backstory.md), Trepti, and Ysanti
 	- Enysari: 68 year old cis female Vishkanyan Bard, mother of Irimi
 - 11 partners
 	- Note: Most of the siblings share a preference for large strong people, especially older men
@@ -30,8 +30,8 @@
 - 18 children
 	- 7 children of Idara and Enthis
 	- 3 adopted children of Imrada and Thasili
-	- 2 children of Sashri and Yandira
-	- 1 child of Sashri and Nandara
+	- 2 children of [Sashri](sashri-backstory.md) and Yandira
+	- 1 child of [Sashri](sashri-backstory.md) and Nandara
 	- 2 children of Ysanti and Iwarna
 	- 3 children of Irimi and Shantarad
 - 12 grandchildren

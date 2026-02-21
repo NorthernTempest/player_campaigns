@@ -1,6 +1,7 @@
 # Family Backstory
 
 ## The Family
+
 - 7 siblings
 	- Idara: 59 year old cis female Vishkanyan Wizard, identical twin of Imrada
 	- Imrada: 59 year old trans masc Vishkanyan Rogue multiclassed with Investigator, identical twin of Idara
@@ -34,7 +35,7 @@
 	- 2 children of Ysanti and Iwarna
 	- 3 children of Irimi and Shantarad
 - 12 grandchildren
-	- 
+	- tbd
 - 7 grandparents
 	- Parents of Ishnari
 	- Parents of Hasharada
@@ -42,7 +43,7 @@
 - 5 aunts & uncles
 	- Siblings of Ishnari
 	- Siblings of Hasharada
-- 30 cousins
-	- 
+- 15 cousins
+	- tbd
 
 ## The Ishnari Grimoire
